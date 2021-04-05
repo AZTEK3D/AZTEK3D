@@ -2,7 +2,7 @@
 - 👀 I’m interested in Odoo Enterprise
 - 🌱 I’m currently learning Debian/Ubuntu
 - 💞️ I’m looking to collaborate on customers projetcs
-- 📫 How to reach me jorge
+- 📫 How to reach me www.aztek3d.com
 
 <!---
 AZTEK3D/AZTEK3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
